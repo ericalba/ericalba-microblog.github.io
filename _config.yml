@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Eric Alba"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/ericalba\">@ericalba on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/ericalba\">@ericalba on Micro.blog</a>."
+baseurl: ""
+url: "http://micro.ericalba.com"
+markdown: "kramdown"
+username: "ericalba"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Eric Alba"
+name: "Eric Alba"
+gravatar_hash: "093df09c7a2a5a12774228ff028cad55"
+avatar: "https://micro.blog/ericalba/avatar.jpg"
+full_name: "Eric Alba"
+bio: ""
+twitter_username: "alba"
+github_username: "ericalba"
+instagram_username: "ericalba"
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "2407"
