@@ -1,0 +1,10 @@
+---
+layout: post
+microblog: true
+date: 2017-12-18 03:01 -0500
+guid: http://ericalba.micro.blog/2017/12/18/gust-by-theodorefiveldayfornightfest.html
+---
+“GUST” by @TheodoreFivel
+#DayForNightFest
+
+<img src="http://micro.ericalba.com/uploads/2018/7b0f1c7513.jpg" width="600" height="449" />
