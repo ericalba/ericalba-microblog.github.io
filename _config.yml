@@ -1,27 +1,11 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+email: your-email@domain.com
 
-# - markdown: kramdown
-
-# Sass
+exclude:
+  - Gemfile
+  - Gemfile.lock
 sass:
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+  sass_dir: assets/stylesheets
+  style: :compressed
 
 title: "Eric Alba"
 tagline: ""
