@@ -1,3 +1,27 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 title: "Eric Alba"
 tagline: ""
