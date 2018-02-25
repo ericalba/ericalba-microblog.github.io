@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/02/25/teknopolis-show-at.html",
+	      	
+			"content_html": "<p>Teknopolis show at @bam_brooklyn</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/c48c901c99.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/338d95a76b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/3f8ca397c1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/0ed757831f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/e251243ed9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-24T23:08:00-05:00",
+			"url": "http://micro.ericalba.com/2018/02/24/teknopolis-show-at.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/02/22/tbt-i-had.html",
 	      	
 			"content_html": "<h1 id=\"tbt-i-had-no-business-handling-bleeding-edge-technology-in-my-youth-i-do-not-recall-this-moment-but-djlegoisintheremix-has-evidence-cc-deependdining-libatique\">TBT I had no business handling bleeding edge technology in my youth. I do not recall this moment but @djlegoisintheremix has evidence. Cc @deependdining @libatique</h1>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/3e39afb157.jpg\" width=\"480\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Windy.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/d0308a603c.jpg\" width=\"480\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/bf5026a396.jpg\" width=\"480\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-04T21:29:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/04/windy.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/01/01/seeing-through-sweaty.html",
-	      	
-			"content_html": "<p>Seeing ❤️ through sweaty windows.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/7ba86783f0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-01T04:10:00-05:00",
-			"url": "http://micro.ericalba.com/2018/01/01/seeing-through-sweaty.html"
 		}
 		
 	]
