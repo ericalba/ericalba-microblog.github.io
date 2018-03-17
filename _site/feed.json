@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/03/13/waiting-for-conference.html",
+	      	
+			"content_html": "<p>Waiting for conference rooms.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/9a172d9136.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-13T17:49:00-05:00",
+			"url": "http://micro.ericalba.com/2018/03/13/waiting-for-conference.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/03/02/not-tbt-but.html",
 	      	
 			"content_html": "<p>Not #TBT but feels like so many days from the past. \nThis pic: me on the 9th conf call of the day. And it’s not even lunch yet. \nHate to sound like the old guy but I miss the days when you were on set, you were “Working On Set”. Now I’m “Working FROM Set” and I’m getting bombarded with Slacks, texts, emails, WebEx Conf Calls, all while trying to do the very expensive shoot my team have so carefully prepared. “You kids get off my lawn with your Pokémon Selfie Go Snap AR Hashbrowns”</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/96c3354a3e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Not #TBT . This is my today, so far. Swipe for deets. #Multitasking #Myth</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/32eb0a66e5.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/882ac5a45d.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/bce3cc230a.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-11T20:07:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/11/not-tbt-this.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/01/09/hello-testing-image.html",
-	      	
-			"content_html": "<p>Hello. Testing image upload from iOS app.\nAh. So i guess they upload square crop? The filter options are nice. </p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/2f2f267f7d.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-09T01:44:00-05:00",
-			"url": "http://micro.ericalba.com/2018/01/09/hello-testing-image.html"
 		}
 		
 	]
