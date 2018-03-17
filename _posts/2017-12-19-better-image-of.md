@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-18 21:46 -0500
 guid: http://ericalba.micro.blog/2017/12/19/better-image-of.html
 ---
