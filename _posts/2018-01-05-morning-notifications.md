@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-05 09:09 -0500
 guid: http://ericalba.micro.blog/2018/01/05/morning-notifications.html
 ---
