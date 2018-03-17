@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-09 01:44 -0500
 guid: http://ericalba.micro.blog/2018/01/09/hello-testing-image.html
 ---
