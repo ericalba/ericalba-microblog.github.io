@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-20 15:27 -0500
+date: 2018-01-20 16:27 -0400
 guid: http://ericalba.micro.blog/2018/01/20/trumprat-on-th.html
 ---
 #TRUMPRAT on 26th St
