@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-07 20:01 -0500
+date: 2018-02-07 21:01 -0400
 guid: http://ericalba.micro.blog/2018/02/08/wednesday-feb-test.html
 ---
 wednesday feb 07 test . last otter didnt work to mirror to github.
