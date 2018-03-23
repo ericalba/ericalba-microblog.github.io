@@ -3,7 +3,7 @@ layout: post
 title: "another test."
 microblog: false
 audio: 
-date: 2018-02-12 20:33 -0500
+date: 2018-02-12 21:33 -0400
 guid: http://ericalba.micro.blog/2018/02/13/another-testjust-deleted.html
 ---
 just deleted my old github pages repo
