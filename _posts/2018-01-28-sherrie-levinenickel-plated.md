@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-27 19:49 -0500
+date: 2018-01-27 20:49 -0400
 guid: http://ericalba.micro.blog/2018/01/28/sherrie-levinenickel-plated.html
 ---
 Sherrie Levine
