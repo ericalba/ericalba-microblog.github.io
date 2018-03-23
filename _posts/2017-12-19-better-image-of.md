@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-18 21:46 -0500
+date: 2017-12-18 22:46 -0400
 guid: http://ericalba.micro.blog/2017/12/19/better-image-of.html
 ---
 Better image of “Telestron“ . Thanks to @VTProDesign for giving @kindakash and I a preview before launch at @DayForNightFest . I stood in line to see this 6 Times during the fest. And I hate lines. 
