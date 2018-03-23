@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-12 21:38 -0500
+date: 2018-01-12 22:38 -0400
 guid: http://ericalba.micro.blog/2018/01/13/hey-why-dont.html
 ---
 “Hey, why don’t I get a laptop?”
