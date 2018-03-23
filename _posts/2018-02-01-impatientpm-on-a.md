@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-31 21:20 -0500
+date: 2018-01-31 22:20 -0400
 guid: http://ericalba.micro.blog/2018/02/01/impatientpm-on-a.html
 ---
 #Impatient
