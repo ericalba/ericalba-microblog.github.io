@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-11 20:07 -0500
+date: 2018-01-11 21:07 -0400
 guid: http://ericalba.micro.blog/2018/01/12/not-tbt-this.html
 ---
 Not #TBT . This is my today, so far. Swipe for deets. #Multitasking #Myth
