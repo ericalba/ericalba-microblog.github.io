@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-14 07:40 -0500
+date: 2018-01-14 08:40 -0400
 guid: http://ericalba.micro.blog/2018/01/14/survival-research-laboratoriestest.html
 ---
 **Survival Research Laboratories**
