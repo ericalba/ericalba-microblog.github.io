@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/03/30/spicy-miso-ramen.html",
+	      	
+			"content_html": "<p>Spicy Miso Ramen at Ramen Andante in Brooklyn. If you like Minca Ramen in EV, this is the same family.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/82c727f5dc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-30T00:03:00-04:00",
+			"url": "http://micro.ericalba.com/2018/03/30/spicy-miso-ramen.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/03/24/though-this-laundromat.html",
 	      	
 			"content_html": "<p>Though this laundromat is an arcade of well kept pinball machines. And a bar.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/d500ac71a2.jpg\" width=\"480\" height=\"600\" /></p>\n",
@@ -35,15 +43,15 @@
 			"id": "http://ericalba.micro.blog/2018/03/02/not-tbt-but.html",
 	      	
 			"content_html": "<p>Not #TBT but feels like so many days from the past. \nThis pic: me on the 9th conf call of the day. And it’s not even lunch yet. \nHate to sound like the old guy but I miss the days when you were on set, you were “Working On Set”. Now I’m “Working FROM Set” and I’m getting bombarded with Slacks, texts, emails, WebEx Conf Calls, all while trying to do the very expensive shoot my team have so carefully prepared. “You kids get off my lawn with your Pokémon Selfie Go Snap AR Hashbrowns”</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/96c3354a3e.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-01T22:18:00-04:00",
+			"date_published": "2018-03-01T21:18:00-05:00",
 			"url": "http://micro.ericalba.com/2018/03/01/not-tbt-but.html"
 		},
 		
 		{
 			"id": "http://ericalba.micro.blog/2018/03/01/repost-tracyheroldblurry-albas.html",
 	      	
-			"content_html": "<h1 id=\"repost-tracyherold\">Repost @tracyherold</h1>\n<p>・・・\nBlurry Albas on a train. \nMy note: we have the same smirk, mine is just older. \n#Shakycam</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/0cd4645cf8.jpg\" width=\"600\" height=\"449\" /></p>\n",
-			"date_published": "2018-02-28T23:12:00-04:00",
+			"content_html": "<p>#Repost @tracyherold\n・・・\nBlurry Albas on a train. \nMy note: we have the same smirk, mine is just older. \n#Shakycam</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/0cd4645cf8.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-02-28T22:12:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/28/repost-tracyheroldblurry-albas.html"
 		},
 		
@@ -51,23 +59,23 @@
 			"id": "http://ericalba.micro.blog/2018/02/25/teknopolis-show-at.html",
 	      	
 			"content_html": "<p>Teknopolis show at @bam_brooklyn</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/c48c901c99.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/338d95a76b.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/3f8ca397c1.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/0ed757831f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/e251243ed9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-25T00:08:00-04:00",
-			"url": "http://micro.ericalba.com/2018/02/25/teknopolis-show-at.html"
+			"date_published": "2018-02-24T23:08:00-05:00",
+			"url": "http://micro.ericalba.com/2018/02/24/teknopolis-show-at.html"
 		},
 		
 		{
 			"id": "http://ericalba.micro.blog/2018/02/22/tbt-i-had.html",
 	      	
-			"content_html": "<h1 id=\"tbt-i-had-no-business-handling-bleeding-edge-technology-in-my-youth-i-do-not-recall-this-moment-but-djlegoisintheremix-has-evidence-cc-deependdining-libatique\">TBT I had no business handling bleeding edge technology in my youth. I do not recall this moment but @djlegoisintheremix has evidence. Cc @deependdining @libatique</h1>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/3e39afb157.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-22T10:16:00-04:00",
+			"content_html": "<p>#TBT I had no business handling bleeding edge technology in my youth. I do not recall this moment but @djlegoisintheremix has evidence. Cc @deependdining @libatique</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/3e39afb157.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-22T09:16:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/22/tbt-i-had.html"
 		},
 		
 		{
 			"id": "http://ericalba.micro.blog/2018/02/19/no-title-testing.html",
 	      	
-			"content_html": "<p>NO TITLE </p>\n\n<p>testing: micro.blog posting with image. </p>\n\n<p><strong>bold</strong></p>\n\n<p><em>under</em></p>\n\n<p><a href=\"https://duckduckgo.com\">link</a></p>\n\n<p>here’s an otter pic for the inconvenience.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" /></p>\n",
-			"date_published": "2018-02-18T20:27:00-04:00",
+			"content_html": "<p>NO TITLE</p>\n\n<p>testing: micro.blog posting with image.</p>\n\n<p><strong>bold</strong></p>\n\n<p><em>under</em></p>\n\n<p><a href=\"https://duckduckgo.com\">link</a></p>\n\n<p>here’s an otter pic for the inconvenience.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-02-18T19:27:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/18/no-title-testing.html"
 		},
 		
@@ -75,7 +83,7 @@
 			"id": "http://ericalba.micro.blog/2018/02/17/karakacchan-ramen-hakata.html",
 	      	
 			"content_html": "<p>Karakacchan Ramen Hakata Meibutsu: A Unique Mix of Twenty-Six Spices, Ground Pork, and Bold Umami Essences in Beef Shoyu-Based Broth w/ a Spicy Kick; Served With Thick Wavy Noodles.</p>\n\n<p>After enjoying the noodles, you finish off the ramen by mixing the Ojiya Set (rice and poached egg) into the soup Hakata-style.</p>\n\n<p>At @IppudoNY</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/71d1a21c72.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/a66c9bfe8a.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/0dcdf34469.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/00cb72649c.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/baf1c7b722.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-16T22:11:00-04:00",
+			"date_published": "2018-02-16T21:11:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/16/karakacchan-ramen-hakata.html"
 		},
 		
@@ -83,7 +91,7 @@
 			"id": "http://ericalba.micro.blog/2018/02/15/untitled.html",
 	      	
 			"content_html": "<p>Untitled</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/ae28486d99.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-15T01:20:00-04:00",
+			"date_published": "2018-02-15T00:20:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/15/untitled.html"
 		},
 		
@@ -91,7 +99,7 @@
 			"id": "http://ericalba.micro.blog/2018/02/14/feb-pmet-i.html",
 	      	
 			"content_html": "<p>Feb 13, 11:30pmET. I get home and Siri is keeping her distance. Cold as Ice. Her last comment is brutal. 😢 #FriendZone @jim_dalrymple @settern @reneritchie @efron <a href=\"https://micro.blog/gruber\">@gruber</a></p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/cff2726015.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-14T01:05:00-04:00",
+			"date_published": "2018-02-14T00:05:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/14/feb-pmet-i.html"
 		},
 		
@@ -100,8 +108,8 @@
 	      	
 			"title": "another test.",
 			
-			"content_html": "<p>just deleted my old github pages repo\nstarted a new one ericalba.github.io\nadded new erialba/ericalba.gihub.io and personal access token </p>\n\n<p>there seems to be missing steps, </p>\n\n<p>do i do deploy a default jekyll install into this repo first? I’m going to try it without first and see what happens.</p>\n\n<p>here we go.</p>\n\n<p>cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/e5b7fe9f9c.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-02-12T21:33:00-04:00",
+			"content_html": "<p>just deleted my old github pages repo\nstarted a new one ericalba.github.io\nadded new erialba/ericalba.gihub.io and personal access token</p>\n\n<p>there seems to be missing steps,</p>\n\n<p>do i do deploy a default jekyll install into this repo first? I’m going to try it without first and see what happens.</p>\n\n<p>here we go.</p>\n\n<p>cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/e5b7fe9f9c.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-02-12T20:33:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/12/another-testjust-deleted.html"
 		},
 		
@@ -109,7 +117,7 @@
 			"id": "http://ericalba.micro.blog/2018/02/11/jigoku-ramen-homemade.html",
 	      	
 			"content_html": "<p>Jigoku Ramen: Homemade Spicy Scallion Sauce With Pork Broth, Chashu, Spinach, Kikurage, Ajitama (Egg), Nori (Straight Noodles)\nAt @YokoyaRamen</p>\n\n<p>Sorry for back to back Ramen posts, blame it on the weather. ☔️</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/5df8e0f347.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/521205055f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-11T16:09:00-04:00",
+			"date_published": "2018-02-11T15:09:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/11/jigoku-ramen-homemade.html"
 		},
 		
@@ -117,7 +125,7 @@
 			"id": "http://ericalba.micro.blog/2018/02/08/wednesday-feb-test.html",
 	      	
 			"content_html": "<p>wednesday feb 07 test . last otter didnt work to mirror to github.</p>\n\n<p>new token and username/username.github.io settings in micro.blog. let’s see what happens. do i have to delete my current github pages (ericalba.github.io) and start a new ericalba/ericalba.github.io ? @manton</p>\n\n<p>here’s an otter pic from the web, in the meantime.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/cf687f0909.jpg\" width=\"600\" height=\"337\" /></p>\n",
-			"date_published": "2018-02-07T21:01:00-04:00",
+			"date_published": "2018-02-07T20:01:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/07/wednesday-feb-test.html"
 		},
 		
@@ -125,15 +133,15 @@
 			"id": "http://ericalba.micro.blog/2018/02/04/saturday-afternoon-and.html",
 	      	
 			"content_html": "<p>Saturday afternoon and this kid’s walking heads down in a book instead of a phone. There is hope for humanity. 🤙📖❤️📚</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/cf0b8151a9.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/cb13a93b23.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-04T04:43:00-04:00",
+			"date_published": "2018-02-04T03:43:00-05:00",
 			"url": "http://micro.ericalba.com/2018/02/04/saturday-afternoon-and.html"
 		},
 		
 		{
 			"id": "http://ericalba.micro.blog/2018/02/01/impatientpm-on-a.html",
 	      	
-			"content_html": "<h1 id=\"impatient\">Impatient</h1>\n<p>1:30pm on a weekday. I grab a cab outside Blue Ribbon Sushi by Colombia Circle. I open cab door and then this. \nI’m just trying to think of the scenario leading up to this beautiful package being torn apart and just left in the door pocket. \nWas it a #nooner thing? Was it all going down IN the cab?! Was it planned or did someone spontaneously get the green light to get their F on and they just said “damn, Yo Taxi! [Insert Address Here] BUT first, I need to stop at a bodega.”? I want to know. Pls submit your theories here.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/aa876f420a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-31T22:20:00-04:00",
+			"content_html": "<p>#Impatient\n1:30pm on a weekday. I grab a cab outside Blue Ribbon Sushi by Colombia Circle. I open cab door and then this. \nI’m just trying to think of the scenario leading up to this beautiful package being torn apart and just left in the door pocket. \nWas it a #nooner thing? Was it all going down IN the cab?! Was it planned or did someone spontaneously get the green light to get their F on and they just said “damn, Yo Taxi! [Insert Address Here] BUT first, I need to stop at a bodega.”? I want to know. Pls submit your theories here.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/aa876f420a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-31T21:20:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/31/impatientpm-on-a.html"
 		},
 		
@@ -141,7 +149,7 @@
 			"id": "http://ericalba.micro.blog/2018/01/28/jeff-koons-bluebird.html",
 	      	
 			"content_html": "<p>Jeff Koons: Bluebird Planter, 2010-2016\nMirror-polished stainless steel with transparent color coating and live flowering plants</p>\n\n<p>@DavidZwirner 25 Years Exhibition</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/285f255cc5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-27T21:12:00-04:00",
+			"date_published": "2018-01-27T20:12:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/27/jeff-koons-bluebird.html"
 		},
 		
@@ -149,7 +157,7 @@
 			"id": "http://ericalba.micro.blog/2018/01/28/judd-serra-flavindonald.html",
 	      	
 			"content_html": "<p>Judd, Serra, Flavin.</p>\n\n<p>Donald Judd: Untitled, 1964\nLight cadmium red enamel on galvanized iron</p>\n\n<p>Dan Flavin: the diagonal of May 25, 1963 (to Constantin Brancusi), 1963\nyellow fluorescent light</p>\n\n<p>Richard Serra: House of Cards</p>\n\n<p>@DaviZwirner : 25 Years Exhibition</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/e200b9b545.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-27T21:07:00-04:00",
+			"date_published": "2018-01-27T20:07:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/27/judd-serra-flavindonald.html"
 		},
 		
@@ -157,7 +165,7 @@
 			"id": "http://ericalba.micro.blog/2018/01/28/sherrie-levinenickel-plated.html",
 	      	
 			"content_html": "<p>Sherrie Levine\nNickel Plated Cast Bronze Antelope Skulls: Suite of Three, 2017</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/26b4acdf11.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-27T20:49:00-04:00",
+			"date_published": "2018-01-27T19:49:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/27/sherrie-levinenickel-plated.html"
 		},
 		
@@ -165,7 +173,7 @@
 			"id": "http://ericalba.micro.blog/2018/01/27/seths-blog-working.html",
 	      	
 			"content_html": "<p><a href=\"http://sethgodin.typepad.com/seths_blog/2018/01/working-with-a-designer-four-paths.html\">Seth’s Blog: Working with a designer (four paths)</a></p>\n\n<p>Testing micro.blog iOS app share extension</p>\n",
-			"date_published": "2018-01-27T19:44:00-04:00",
+			"date_published": "2018-01-27T18:44:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/27/seths-blog-working.html"
 		},
 		
@@ -173,7 +181,7 @@
 			"id": "http://ericalba.micro.blog/2018/01/22/touba-alipouramerica-closed.html",
 	      	
 			"content_html": "<p>Touba Alipour\n“America Closed for Renovation”\n2017</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/b3a212d3cc.jpg\" width=\"600\" height=\"449\" /></p>\n",
-			"date_published": "2018-01-22T15:34:00-04:00",
+			"date_published": "2018-01-22T14:34:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/22/touba-alipouramerica-closed.html"
 		},
 		
@@ -181,7 +189,7 @@
 			"id": "http://ericalba.micro.blog/2018/01/22/this-day-im.html",
 	      	
 			"content_html": "<p>This day (2017), I’m on the road working, and have been through 5 countries already. \nToday, I’m home unloading dishwasher. #WinSomeLoseSome\n🤔</p>\n",
-			"date_published": "2018-01-21T20:31:00-04:00",
+			"date_published": "2018-01-21T19:31:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/21/this-day-im.html"
 		},
 		
@@ -189,24 +197,16 @@
 			"id": "http://ericalba.micro.blog/2018/01/21/barry-mcgee-exhibit.html",
 	      	
 			"content_html": "<p>Barry McGee exhibit at @CheimRead. \nBoards on boards on boards on boards.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/6485d1fff6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-20T22:15:00-04:00",
+			"date_published": "2018-01-20T21:15:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/20/barry-mcgee-exhibit.html"
 		},
 		
 		{
 			"id": "http://ericalba.micro.blog/2018/01/20/trumprat-on-th.html",
 	      	
-			"content_html": "<h1 id=\"trumprat-on-26th-st\">TRUMPRAT on 26th St</h1>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/0a027fe984.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/f178a05987.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-20T16:27:00-04:00",
+			"content_html": "<p>#TRUMPRAT on 26th St</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/0a027fe984.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/f178a05987.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-20T15:27:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/20/trumprat-on-th.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/01/14/survival-research-laboratoriestest.html",
-	      	
-			"content_html": "<p><strong>Survival Research Laboratories</strong></p>\n\n<p><strong>Test upload pic from micro.blog web client.</strong></p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/ecb5fba6ea.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-14T08:40:00-04:00",
-			"url": "http://micro.ericalba.com/2018/01/14/survival-research-laboratoriestest.html"
 		}
 		
 	]
