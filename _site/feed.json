@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/04/01/cocolabs-white-canvas.html",
+	      	
+			"content_html": "<p>Cocolab’s “White Canvas” at @blackbymatte 💥 meanwhile @josue_ibanez is making sure I don’t spill drinks all over the computers driving this thing. 😕</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/82136c61b8.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-03-31T23:16:00-04:00",
+			"url": "http://micro.ericalba.com/2018/03/31/cocolabs-white-canvas.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/04/01/my-friends-at.html",
+	      	
+			"content_html": "<p>My friends at CocoLab did a nice install at @blackbymatte</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/4e46f72efc.jpg\" width=\"600\" height=\"337\" /><img src=\"http://micro.ericalba.com/uploads/2018/a425fc27fe.jpg\" width=\"600\" height=\"337\" /><img src=\"http://micro.ericalba.com/uploads/2018/c87fc4417b.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-03-31T23:14:00-04:00",
+			"url": "http://micro.ericalba.com/2018/03/31/my-friends-at.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/03/30/spicy-miso-ramen.html",
 	      	
 			"content_html": "<p>Spicy Miso Ramen at Ramen Andante in Brooklyn. If you like Minca Ramen in EV, this is the same family.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/82c727f5dc.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -191,22 +207,6 @@
 			"content_html": "<p>This day (2017), I’m on the road working, and have been through 5 countries already. \nToday, I’m home unloading dishwasher. #WinSomeLoseSome\n🤔</p>\n",
 			"date_published": "2018-01-21T19:31:00-05:00",
 			"url": "http://micro.ericalba.com/2018/01/21/this-day-im.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/01/21/barry-mcgee-exhibit.html",
-	      	
-			"content_html": "<p>Barry McGee exhibit at @CheimRead. \nBoards on boards on boards on boards.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/6485d1fff6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-20T21:15:00-05:00",
-			"url": "http://micro.ericalba.com/2018/01/20/barry-mcgee-exhibit.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/01/20/trumprat-on-th.html",
-	      	
-			"content_html": "<p>#TRUMPRAT on 26th St</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/0a027fe984.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/f178a05987.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-20T15:27:00-05:00",
-			"url": "http://micro.ericalba.com/2018/01/20/trumprat-on-th.html"
 		}
 		
 	]
