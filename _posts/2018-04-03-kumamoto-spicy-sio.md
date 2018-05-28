@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-02 20:27 -0400
+date: 2018-04-02 20:27:00 -0400
 guid: http://ericalba.micro.blog/2018/04/03/kumamoto-spicy-sio.html
 ---
 Kumamoto Spicy Sio Ramen: Pork Bone Broth & Spicy Sauce Served W/Noodles, Berkshire Pork Belly Chashu, Bamboo Shoots, Tree Mushroom, Bean Sprouts, Seaweed & Egg. So Damn Good.
