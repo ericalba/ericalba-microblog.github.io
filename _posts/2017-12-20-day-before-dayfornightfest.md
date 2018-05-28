@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-20 03:45 -0400
+date: 2017-12-20 03:45:32 -0400
 guid: http://ericalba.micro.blog/2017/12/20/day-before-dayfornightfest.html
 ---
 Day before @dayfornightfest launch. [@ross](https://micro.blog/ross).mccampbell & @james_zanoni do last minute tweaks on all their great festival animations. @kindakash and I giving unsolicited feedback, while Ross & James tell us to F ourselves. ¯\_(ツ)_/¯
