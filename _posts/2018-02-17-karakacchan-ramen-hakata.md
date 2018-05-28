@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-16 22:11 -0400
+date: 2018-02-16 22:11:39 -0400
 guid: http://ericalba.micro.blog/2018/02/17/karakacchan-ramen-hakata.html
 ---
 Karakacchan Ramen Hakata Meibutsu: A Unique Mix of Twenty-Six Spices, Ground Pork, and Bold Umami Essences in Beef Shoyu-Based Broth w/ a Spicy Kick; Served With Thick Wavy Noodles.
