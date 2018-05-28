@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-25 00:08 -0400
+date: 2018-02-25 00:08:43 -0400
 guid: http://ericalba.micro.blog/2018/02/25/teknopolis-show-at.html
 ---
 Teknopolis show at @bam_brooklyn
