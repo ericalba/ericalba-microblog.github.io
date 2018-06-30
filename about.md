@@ -3,10 +3,8 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2018-02-18 20:09 -0500
+date: 2018-05-28 21:22:37 -0400
 ---
-![Neutral Selfie](http://cdn.ericalba.com/photos/_hotlinked_elsewhere/eric-alba-anaglyph-booth-320.jpg "Alba Profile Photo"){: .center-image }
-
 Hello, I’m Eric Alba. 
 
 I work in experiential production and visual effects. I ❤️ 🍜
@@ -30,6 +28,9 @@ Questions, comments are always welcome. Send to hello@ericalba.com or [@alba](ht
 - [Linkedin](https://www.linkedin.com/in/ericalba)
 
 - [WorkingNotWorking](https://workingnotworking.com/ericalba)
+
+<link href="https://twitter.com/alba" rel="me">
+<link href="https://instagram.com/ericalba" rel="me">
 
 
 
