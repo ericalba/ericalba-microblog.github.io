@@ -1,0 +1,422 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Eric Alba",
+	"icon": "https://micro.blog/ericalba/avatar.jpg",
+	"home_page_url": "http://micro.ericalba.com/",
+	"feed_url": "http://micro.ericalba.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/04/03/kumamoto-spicy-sio.html",
+	      	
+			"content_text": "Kumamoto Spicy Sio Ramen: Pork Bone Broth &amp; Spicy Sauce...",
+			"date_published": "2018-04-02T20:27:00-04:00",
+			"url": "http://micro.ericalba.com/2018/04/02/kumamoto-spicy-sio.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/04/01/black-tonkotsu-ramen.html",
+	      	
+			"content_text": "Black Tonkotsu Ramen: Served w/ Chashu (Roasted Park), Moyashi (Bean...",
+			"date_published": "2018-04-01T11:53:54-04:00",
+			"url": "http://micro.ericalba.com/2018/04/01/black-tonkotsu-ramen.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/04/01/cocolabs-white-canvas.html",
+	      	
+			"content_text": "Cocolab’s “White Canvas” at @blackbymatte 💥 meanwhile @josue_ibanez is making...",
+			"date_published": "2018-03-31T23:16:40-04:00",
+			"url": "http://micro.ericalba.com/2018/03/31/cocolabs-white-canvas.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/04/01/my-friends-at.html",
+	      	
+			"content_text": "My friends at CocoLab did a nice install at @blackbymatte...",
+			"date_published": "2018-03-31T23:14:30-04:00",
+			"url": "http://micro.ericalba.com/2018/03/31/my-friends-at.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/03/30/spicy-miso-ramen.html",
+	      	
+			"content_text": "Spicy Miso Ramen at Ramen Andante in Brooklyn. If you...",
+			"date_published": "2018-03-30T00:03:38-04:00",
+			"url": "http://micro.ericalba.com/2018/03/30/spicy-miso-ramen.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/03/24/though-this-laundromat.html",
+	      	
+			"content_text": "Though this laundromat is an arcade of well kept pinball...",
+			"date_published": "2018-03-24T01:33:30-04:00",
+			"url": "http://micro.ericalba.com/2018/03/24/though-this-laundromat.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/03/23/share-to-microblog.html",
+	      	
+			"title": "Share to Micro.blog from Feedbin",
+			
+			"content_text": "new feature on Feedbin www.macdrifter.com/2018/03/s…\n",
+			"date_published": "2018-03-23T13:29:08-04:00",
+			"url": "http://micro.ericalba.com/2018/03/23/share-to-microblog.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/03/13/waiting-for-conference.html",
+	      	
+			"content_text": "Waiting for conference rooms.\n\n\n",
+			"date_published": "2018-03-13T18:49:35-04:00",
+			"url": "http://micro.ericalba.com/2018/03/13/waiting-for-conference.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/03/02/not-tbt-but.html",
+	      	
+			"content_text": "Not #TBT but feels like so many days from the...",
+			"date_published": "2018-03-01T21:18:28-05:00",
+			"url": "http://micro.ericalba.com/2018/03/01/not-tbt-but.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/03/01/repost-tracyheroldblurry-albas.html",
+	      	
+			"content_text": "#Repost @tracyherold ・・・ Blurry Albas on a train. My note:...",
+			"date_published": "2018-02-28T22:12:36-05:00",
+			"url": "http://micro.ericalba.com/2018/02/28/repost-tracyheroldblurry-albas.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/25/teknopolis-show-at.html",
+	      	
+			"content_text": "Teknopolis show at @bam_brooklyn\n\n\n",
+			"date_published": "2018-02-24T23:08:43-05:00",
+			"url": "http://micro.ericalba.com/2018/02/24/teknopolis-show-at.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/22/tbt-i-had.html",
+	      	
+			"content_text": "#TBT I had no business handling bleeding edge technology in...",
+			"date_published": "2018-02-22T09:16:03-05:00",
+			"url": "http://micro.ericalba.com/2018/02/22/tbt-i-had.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/19/no-title-testing.html",
+	      	
+			"content_text": "NO TITLE testing: micro.blog posting with image. bold under link...",
+			"date_published": "2018-02-18T19:27:47-05:00",
+			"url": "http://micro.ericalba.com/2018/02/18/no-title-testing.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/17/karakacchan-ramen-hakata.html",
+	      	
+			"content_text": "Karakacchan Ramen Hakata Meibutsu: A Unique Mix of Twenty-Six Spices,...",
+			"date_published": "2018-02-16T21:11:39-05:00",
+			"url": "http://micro.ericalba.com/2018/02/16/karakacchan-ramen-hakata.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/15/untitled.html",
+	      	
+			"content_text": "Untitled\n\n\n",
+			"date_published": "2018-02-15T00:20:03-05:00",
+			"url": "http://micro.ericalba.com/2018/02/15/untitled.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/14/feb-pmet-i.html",
+	      	
+			"content_text": "Feb 13, 11:30pmET. I get home and Siri is keeping...",
+			"date_published": "2018-02-14T00:05:52-05:00",
+			"url": "http://micro.ericalba.com/2018/02/14/feb-pmet-i.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/13/another-testjust-deleted.html",
+	      	
+			"title": "another test.",
+			
+			"content_text": "just deleted my old github pages repo started a new...",
+			"date_published": "2018-02-12T20:33:42-05:00",
+			"url": "http://micro.ericalba.com/2018/02/12/another-testjust-deleted.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/11/jigoku-ramen-homemade.html",
+	      	
+			"content_text": "Jigoku Ramen: Homemade Spicy Scallion Sauce With Pork Broth, Chashu,...",
+			"date_published": "2018-02-11T15:09:17-05:00",
+			"url": "http://micro.ericalba.com/2018/02/11/jigoku-ramen-homemade.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/08/wednesday-feb-test.html",
+	      	
+			"content_text": "wednesday feb 07 test . last otter didnt work to...",
+			"date_published": "2018-02-07T20:01:23-05:00",
+			"url": "http://micro.ericalba.com/2018/02/07/wednesday-feb-test.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/04/saturday-afternoon-and.html",
+	      	
+			"content_text": "Saturday afternoon and this kid’s walking heads down in a...",
+			"date_published": "2018-02-04T03:43:49-05:00",
+			"url": "http://micro.ericalba.com/2018/02/04/saturday-afternoon-and.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/02/01/impatientpm-on-a.html",
+	      	
+			"content_text": "#Impatient 1:30pm on a weekday. I grab a cab outside...",
+			"date_published": "2018-01-31T21:20:13-05:00",
+			"url": "http://micro.ericalba.com/2018/01/31/impatientpm-on-a.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/28/jeff-koons-bluebird.html",
+	      	
+			"content_text": "Jeff Koons: Bluebird Planter, 2010-2016 Mirror-polished stainless steel with transparent...",
+			"date_published": "2018-01-27T20:12:18-05:00",
+			"url": "http://micro.ericalba.com/2018/01/27/jeff-koons-bluebird.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/28/judd-serra-flavindonald.html",
+	      	
+			"content_text": "Judd, Serra, Flavin. Donald Judd: Untitled, 1964 Light cadmium red...",
+			"date_published": "2018-01-27T20:07:54-05:00",
+			"url": "http://micro.ericalba.com/2018/01/27/judd-serra-flavindonald.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/28/sherrie-levinenickel-plated.html",
+	      	
+			"content_text": "Sherrie Levine Nickel Plated Cast Bronze Antelope Skulls: Suite of...",
+			"date_published": "2018-01-27T19:49:53-05:00",
+			"url": "http://micro.ericalba.com/2018/01/27/sherrie-levinenickel-plated.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/27/seths-blog-working.html",
+	      	
+			"content_text": "Seth’s Blog: Working with a designer (four paths) Testing micro.blog...",
+			"date_published": "2018-01-27T18:44:41-05:00",
+			"url": "http://micro.ericalba.com/2018/01/27/seths-blog-working.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/22/touba-alipouramerica-closed.html",
+	      	
+			"content_text": "Touba Alipour\n“America Closed for Renovation”\n2017\n\n\n",
+			"date_published": "2018-01-22T14:34:47-05:00",
+			"url": "http://micro.ericalba.com/2018/01/22/touba-alipouramerica-closed.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/22/this-day-im.html",
+	      	
+			"content_text": "This day (2017), I’m on the road working, and have...",
+			"date_published": "2018-01-21T19:31:23-05:00",
+			"url": "http://micro.ericalba.com/2018/01/21/this-day-im.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/21/barry-mcgee-exhibit.html",
+	      	
+			"content_text": "Barry McGee exhibit at @CheimRead. Boards on boards on boards...",
+			"date_published": "2018-01-20T21:15:42-05:00",
+			"url": "http://micro.ericalba.com/2018/01/20/barry-mcgee-exhibit.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/20/trumprat-on-th.html",
+	      	
+			"content_text": "#TRUMPRAT on 26th St\n\n\n",
+			"date_published": "2018-01-20T15:27:55-05:00",
+			"url": "http://micro.ericalba.com/2018/01/20/trumprat-on-th.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/14/survival-research-laboratoriestest.html",
+	      	
+			"content_text": "Survival Research Laboratories Test upload pic from micro.blog web client....",
+			"date_published": "2018-01-14T07:40:59-05:00",
+			"url": "http://micro.ericalba.com/2018/01/14/survival-research-laboratoriestest.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/13/hey-why-dont.html",
+	      	
+			"content_text": "“Hey, why don’t I get a laptop?” Nice to come...",
+			"date_published": "2018-01-12T21:38:56-05:00",
+			"url": "http://micro.ericalba.com/2018/01/12/hey-why-dont.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/12/not-tbt-this.html",
+	      	
+			"content_text": "Not #TBT . This is my today, so far. Swipe...",
+			"date_published": "2018-01-11T20:07:45-05:00",
+			"url": "http://micro.ericalba.com/2018/01/11/not-tbt-this.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/09/hello-testing-image.html",
+	      	
+			"content_text": "Hello. Testing image upload from iOS app. Ah. So i...",
+			"date_published": "2018-01-09T01:44:10-05:00",
+			"url": "http://micro.ericalba.com/2018/01/09/hello-testing-image.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/05/morning-notifications.html",
+	      	
+			"content_text": "Morning notifications.\n\n\n",
+			"date_published": "2018-01-05T09:09:00-05:00",
+			"url": "http://micro.ericalba.com/2018/01/05/morning-notifications.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/05/windy.html",
+	      	
+			"content_text": "Windy.\n\n\n",
+			"date_published": "2018-01-04T21:29:08-05:00",
+			"url": "http://micro.ericalba.com/2018/01/04/windy.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/01/01/seeing-through-sweaty.html",
+	      	
+			"content_text": "Seeing ❤️ through sweaty windows.\n\n\n",
+			"date_published": "2018-01-01T04:10:59-05:00",
+			"url": "http://micro.ericalba.com/2018/01/01/seeing-through-sweaty.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/29/bestnine-likes-to.html",
+	      	
+			"content_text": "#2017bestnine , 17,561 Likes to 255 posts. I’m glad to...",
+			"date_published": "2017-12-29T18:08:49-05:00",
+			"url": "http://micro.ericalba.com/2017/12/29/bestnine-likes-to.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/22/day-v-day.html",
+	      	
+			"content_text": "Day 01 v. Day 18,263 Some people say I’ve had...",
+			"date_published": "2017-12-21T21:34:39-05:00",
+			"url": "http://micro.ericalba.com/2017/12/21/day-v-day.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/20/day-before-dayfornightfest.html",
+	      	
+			"content_text": "Day before @dayfornightfest launch. @ross.mccampbell &amp; @james_zanoni do last minute...",
+			"date_published": "2017-12-20T02:45:32-05:00",
+			"url": "http://micro.ericalba.com/2017/12/20/day-before-dayfornightfest.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/19/better-image-of.html",
+	      	
+			"content_text": "Better image of “Telestron“ . Thanks to @VTProDesign for giving...",
+			"date_published": "2017-12-18T21:46:03-05:00",
+			"url": "http://micro.ericalba.com/2017/12/18/better-image-of.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/19/light-leaks-by.html",
+	      	
+			"content_text": "“Light Leaks” by Kyle Mcdonald @kcimc + Jonas Jongejan @halfdanj...",
+			"date_published": "2017-12-18T21:13:59-05:00",
+			"url": "http://micro.ericalba.com/2017/12/18/light-leaks-by.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/18/thats-a-wrap.html",
+	      	
+			"content_text": "That’s a wrap at @DayForNightFest . Thanks @workorderdesign , @alexczetwertynski...",
+			"date_published": "2017-12-18T11:20:48-05:00",
+			"url": "http://micro.ericalba.com/2017/12/18/thats-a-wrap.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/18/cluster-by-playmodesstudio.html",
+	      	
+			"content_text": "“Cluster” by @PlayModesStudio\n\n\n",
+			"date_published": "2017-12-18T03:35:06-05:00",
+			"url": "http://micro.ericalba.com/2017/12/18/cluster-by-playmodesstudio.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/18/gust-by-theodorefiveldayfornightfest.html",
+	      	
+			"content_text": "“GUST” by @TheodoreFivel\n#DayForNightFest\n\n\n",
+			"date_published": "2017-12-18T03:01:41-05:00",
+			"url": "http://micro.ericalba.com/2017/12/18/gust-by-theodorefiveldayfornightfest.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/17/t942542473909407744.html",
+	      	
+			"content_text": "#Outside by @_Cocolab . @auroranox t.co/VV9s4jcgt… t.co/BoN3Wdl0C…\n",
+			"date_published": "2017-12-17T18:50:12-05:00",
+			"url": "http://micro.ericalba.com/2017/12/17/t942542473909407744.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/17/t942521913460576258.html",
+	      	
+			"content_text": "@officialrezz / Rage Against The Machine t.co/xatvco4WK… t.co/pCRNle1Ni…\n",
+			"date_published": "2017-12-17T17:28:30-05:00",
+			"url": "http://micro.ericalba.com/2017/12/17/t942521913460576258.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/17/t942273539993997312.html",
+	      	
+			"content_text": "“Ricochet” by @MatthewSchreiberart The best part of being a Light...",
+			"date_published": "2017-12-17T01:01:33-05:00",
+			"url": "http://micro.ericalba.com/2017/12/17/t942273539993997312.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/17/t942199446661713922.html",
+	      	
+			"content_text": "@VTProDesign + @gmunk . Do not miss. t.co/OhrkBZGXj… t.co/hUXP3CD6T…\n",
+			"date_published": "2017-12-16T20:07:07-05:00",
+			"url": "http://micro.ericalba.com/2017/12/16/t942199446661713922.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/16/t942044558485049344.html",
+	      	
+			"content_text": "@halfdanj Saw this last night and was blown away. Great...",
+			"date_published": "2017-12-16T09:51:39-05:00",
+			"url": "http://micro.ericalba.com/2017/12/16/t942044558485049344.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/16/t941945545932922880.html",
+	      	
+			"content_text": "Exploring @dayfornightfest in between experiences. (LtoR) @jimmy_gass , @williamjarnold ,...",
+			"date_published": "2017-12-16T03:18:13-05:00",
+			"url": "http://micro.ericalba.com/2017/12/16/t941945545932922880.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2017/12/13/t941024715250028544.html",
+	      	
+			"content_text": "Hello Houston! Are y’all excited for @DayForNightFest ? (@ George...",
+			"date_published": "2017-12-13T14:19:10-05:00",
+			"url": "http://micro.ericalba.com/2017/12/13/t941024715250028544.html"
+		}
+		
+	]
+}
