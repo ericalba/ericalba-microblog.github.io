@@ -1,6 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Eric Alba",
+	"icon": "https://micro.blog/ericalba/avatar.jpg",
 	"home_page_url": "http://micro.ericalba.com/",
 	"feed_url": "http://micro.ericalba.com/feed.json",
 	"items": [
