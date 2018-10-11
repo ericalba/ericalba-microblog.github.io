@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Eric Alba</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/ericalba&quot;&gt;@ericalba on Micro.blog&lt;/a&gt;.</description>
+    <description></description>
     <link>http://micro.ericalba.com/</link>
-    <pubDate>Sat, 30 Jun 2018 02:52:01 -0400</pubDate>
-    <lastBuildDate>Sat, 30 Jun 2018 02:52:01 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Oct 2018 16:09:03 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Oct 2018 16:09:03 -0400</lastBuildDate>
 	<itunes:image href="https://micro.blog/ericalba/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Eric Alba</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Eric Alba</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
