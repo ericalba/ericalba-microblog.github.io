@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/10/11/this-is-a.html",
+	      	
+			"content_html": "<p>181011 - this is a test from micro.blog web app. photo attached.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/4b85e06fc8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-11T18:36:25-04:00",
+			"url": "http://micro.ericalba.com/2018/10/11/this-is-a.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/04/03/kumamoto-spicy-sio.html",
 	      	
 			"content_html": "<p>Kumamoto Spicy Sio Ramen: Pork Bone Broth &amp; Spicy Sauce Served W/Noodles, Berkshire Pork Belly Chashu, Bamboo Shoots, Tree Mushroom, Bean Sprouts, Seaweed &amp; Egg. So Damn Good.</p>\n\n<p>Swipe for the Shrimp Gyoza, which Is my fave and a must try if you never have. \nAt Ramen Andante in WBurg\n❤️ 🍜 😋</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/54a5a0e219.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/7440de84a9.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Sherrie Levine\nNickel Plated Cast Bronze Antelope Skulls: Suite of Three, 2017</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/26b4acdf11.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-27T19:49:53-05:00",
 			"url": "http://micro.ericalba.com/2018/01/27/sherrie-levinenickel-plated.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/01/27/seths-blog-working.html",
-	      	
-			"content_html": "<p><a href=\"http://sethgodin.typepad.com/seths_blog/2018/01/working-with-a-designer-four-paths.html\">Seth’s Blog: Working with a designer (four paths)</a></p>\n\n<p>Testing micro.blog iOS app share extension</p>\n",
-			"date_published": "2018-01-27T18:44:41-05:00",
-			"url": "http://micro.ericalba.com/2018/01/27/seths-blog-working.html"
 		}
 		
 	]
