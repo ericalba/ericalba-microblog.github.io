@@ -9,4 +9,4 @@ thanks Toronto for perfect weather, great food and art. A pleasant weekend with 
 
 Shot with [@moment](https://micro.blog/moment) wide lens on iPhoneX battery case.
 
-<img src="http://micro.ericalba.com/uploads/2018/bfef4c2f5b.jpg" width="600" height="600" />
+<img src="http://micro.ericalba.com/uploads/2018/3b8b0338aa.jpg" width="600" height="600" />
