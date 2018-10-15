@@ -1,0 +1,11 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-06-09 17:04:11 -0400
+guid: http://ericalba.micro.blog/2018/06/09/musical-chairs-my.html
+---
+“Musical Chairs 3.0”
+my latest #interactive installation, is coming soon to an art gallery near you. 😉
+
+<img src="http://micro.ericalba.com/uploads/2018/f7bcae60e5.jpg" width="600" height="600" />
