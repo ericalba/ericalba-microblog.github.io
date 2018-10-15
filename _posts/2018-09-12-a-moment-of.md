@@ -7,4 +7,4 @@ guid: http://ericalba.micro.blog/2018/09/12/a-moment-of.html
 ---
 a moment of silence please.
 
-<img src="http://micro.ericalba.com/uploads/2018/004a456b8b.jpg" width="600" height="450" />
+<img src="http://micro.ericalba.com/uploads/2018/2f4aee114b.jpg" width="600" height="450" />
