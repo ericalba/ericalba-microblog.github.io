@@ -10,4 +10,4 @@ This was perfectly spicy 🌶
 
 at @Menyajirobrooklyn in downtown BK
 
-<img src="http://micro.ericalba.com/uploads/2018/5d3a3f095b.jpg" width="600" height="600" />
+<img src="http://micro.ericalba.com/uploads/2018/ba4bffa7b9.jpg" width="600" height="600" />
