@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/10/17/chicken-matzo-ramen.html",
+	      	
+			"content_text": "Chicken Matzo Ramen: Served w/ House Chili Crisp, Tatsoi, Beech...",
+			"date_published": "2018-10-16T20:53:52-04:00",
+			"url": "http://micro.ericalba.com/2018/10/16/chicken-matzo-ramen.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/10/11/this-is-a.html",
 	      	
 			"content_text": "181011 - this is a test from micro.blog web app....",
@@ -71,14 +79,6 @@
 		},
 		
 		{
-			"id": "http://ericalba.micro.blog/2018/09/22/start-mirrored-street.html",
-	      	
-			"content_text": "START (Mirrored Street Sign)\n\n\n",
-			"date_published": "2018-09-22T16:21:06-04:00",
-			"url": "http://micro.ericalba.com/2018/09/22/start-mirrored-street.html"
-		},
-		
-		{
 			"id": "http://ericalba.micro.blog/2018/09/22/172106.html",
 	      	
 			"content_text": "START (Mirrored Street Sign)\n\n\n",
@@ -95,27 +95,11 @@
 		},
 		
 		{
-			"id": "http://ericalba.micro.blog/2018/09/19/133104.html",
-	      	
-			"content_text": "from archives (2004), Walt Disney Concert Hall #Moody . swipe...",
-			"date_published": "2018-09-19T09:31:04-04:00",
-			"url": "http://micro.ericalba.com/2018/09/19/133104.html"
-		},
-		
-		{
 			"id": "http://ericalba.micro.blog/2018/09/17/daniel-arsham.html",
 	      	
 			"content_text": "Daniel Arsham - 3018\n\n\n",
 			"date_published": "2018-09-17T07:07:30-04:00",
 			"url": "http://micro.ericalba.com/2018/09/17/daniel-arsham.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/09/17/110730.html",
-	      	
-			"content_text": "Daniel Arsham - 3018\n\n\n",
-			"date_published": "2018-09-17T07:07:30-04:00",
-			"url": "http://micro.ericalba.com/2018/09/17/110730.html"
 		},
 		
 		{
