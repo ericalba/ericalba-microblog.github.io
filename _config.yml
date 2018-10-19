@@ -42,8 +42,8 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "2407"
-plugins: ["jekyll-paginate"]
-itunes_description: ""
+gems: ["jekyll-paginate"]
+itunes_description: "Looking for Inspiration, and Ramen. https://24LiesPerSecond.com"
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Eric Alba"
