@@ -1,7 +1,11 @@
 
+<<<<<<< HEAD
 _site/
 .DS_Store
 assets/.DS_Store
 assets/stylesheets/.DS_Store
 .DS_Store
 .DS_Store
+=======
+_site/
+>>>>>>> 4b0dabb63bf5181736fa894de3f909039b479542
