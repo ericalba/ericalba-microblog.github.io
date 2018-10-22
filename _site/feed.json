@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/10/22/jenny-holzer-red.html",
+	      	
+			"content_html": "<p>Jenny Holzer “Red Yellow Looming”</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/b7928af360.jpg\" width=\"480\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/6f58edfd93.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-21T20:13:33-04:00",
+			"url": "http://micro.ericalba.com/2018/10/21/jenny-holzer-red.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/10/21/met-breuer-early.html",
+	      	
+			"content_html": "<p>Met Breuer early evening</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/b7cab06cc9.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/586c625c12.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-20T20:30:36-04:00",
+			"url": "http://micro.ericalba.com/2018/10/20/met-breuer-early.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/10/20/afternoon-guggenheim.html",
+	      	
+			"content_html": "<p>Afternoon Guggenheim</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/ccb39faa05.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-20T16:17:54-04:00",
+			"url": "http://micro.ericalba.com/2018/10/20/afternoon-guggenheim.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/10/17/chicken-matzo-ramen.html",
 	      	
 			"content_html": "<p>Chicken Matzo Ramen: Served w/ House Chili Crisp, Tatsoi, Beech Mushroom. Yes, Matzo Ball on left, Chicken on right. \nDelicious lunch at @omakasa</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/7ef1e71eab.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>#TBT When I was told “Sometimes your job is to just wear the wig, sit there and look pretty.”.\nNo regrets the morning after (technically, this morning 😬).</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/42c02e67e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-12T06:27:47-04:00",
 			"url": "http://micro.ericalba.com/2018/07/12/tbt-when-i.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/07/03/prototyping-producer-confession.html",
-	      	
-			"content_html": "<p>#Prototyping\nProducer confession: At some point, I will most likely will refer to everyone working on or visiting a project in terms of body count. #DarkMath</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/3fd8582119.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-03T16:39:02-04:00",
-			"url": "http://micro.ericalba.com/2018/07/03/prototyping-producer-confession.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/06/17/then-now-happy.html",
-	      	
-			"content_html": "<p>Then &amp; Now. Happy Father’s Day and Happy Birthday Dad! I love you.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/cd8027b5dc.jpg\" width=\"600\" height=\"336\" /></p>\n",
-			"date_published": "2018-06-17T09:04:00-04:00",
-			"url": "http://micro.ericalba.com/2018/06/17/then-now-happy.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/06/09/musical-chairs-my.html",
-	      	
-			"content_html": "<p>“Musical Chairs 3.0”\nmy latest #interactive installation, is coming soon to an art gallery near you. 😉</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/f7bcae60e5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-09T17:04:11-04:00",
-			"url": "http://micro.ericalba.com/2018/06/09/musical-chairs-my.html"
 		}
 		
 	]
