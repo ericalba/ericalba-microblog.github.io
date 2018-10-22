@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/10/22/jenny-holzer-red.html",
+	      	
+			"content_text": "Jenny Holzer “Red Yellow Looming”\n\n\n",
+			"date_published": "2018-10-21T20:13:33-04:00",
+			"url": "http://micro.ericalba.com/2018/10/21/jenny-holzer-red.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/10/21/met-breuer-early.html",
+	      	
+			"content_text": "Met Breuer early evening\n\n\n",
+			"date_published": "2018-10-20T20:30:36-04:00",
+			"url": "http://micro.ericalba.com/2018/10/20/met-breuer-early.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/10/20/afternoon-guggenheim.html",
+	      	
+			"content_text": "Afternoon Guggenheim\n\n\n",
+			"date_published": "2018-10-20T16:17:54-04:00",
+			"url": "http://micro.ericalba.com/2018/10/20/afternoon-guggenheim.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/10/17/chicken-matzo-ramen.html",
 	      	
 			"content_text": "Chicken Matzo Ramen: Served w/ House Chili Crisp, Tatsoi, Beech...",
