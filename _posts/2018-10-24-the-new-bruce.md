@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-24 19:36:55 -0400
+date: 2018-10-24 18:36:55 -0500
 guid: http://ericalba.micro.blog/2018/10/24/the-new-bruce.html
 ---
 The new Bruce Nauman show at @themuseumofmodernart NY is 🙌 (Sound On for the room with the square pieces)
