@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-20 22:15:42 -0400
+date: 2018-01-20 21:15:42 -0500
 guid: http://ericalba.micro.blog/2018/01/21/barry-mcgee-exhibit.html
 ---
 Barry McGee exhibit at @CheimRead. 
