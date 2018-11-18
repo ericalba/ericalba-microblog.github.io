@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-15 11:40:36 -0400
+date: 2018-07-15 10:40:36 -0500
 guid: http://ericalba.micro.blog/2018/07/15/spirit-of-the.html
 ---
 “SPIRIT OF THE CITY” Installation of 16x revolving columns by @unitedvisualartists at @ado courtyard for @mini
