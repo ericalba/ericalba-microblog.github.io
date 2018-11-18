@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-21 20:13:33 -0400
+date: 2018-10-21 19:13:33 -0500
 guid: http://ericalba.micro.blog/2018/10/22/jenny-holzer-red.html
 ---
 Jenny Holzer “Red Yellow Looming”
