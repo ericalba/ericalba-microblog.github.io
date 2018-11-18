@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-05 10:09:00 -0400
+date: 2018-01-05 09:09:00 -0500
 guid: http://ericalba.micro.blog/2018/01/05/morning-notifications.html
 ---
 Morning notifications.
