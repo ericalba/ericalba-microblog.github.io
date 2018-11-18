@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-20 20:30:36 -0400
+date: 2018-10-20 19:30:36 -0500
 guid: http://ericalba.micro.blog/2018/10/21/met-breuer-early.html
 ---
 Met Breuer early evening
