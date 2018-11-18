@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-07 23:39:35 -0400
+date: 2018-09-07 22:39:35 -0500
 guid: http://ericalba.micro.blog/2018/09/08/dreamshipdestiny-by-momentfactory.html
 ---
 #DreamShipDestiNY by @momentfactory at Cipriani (swipe 👉 for some videos)
