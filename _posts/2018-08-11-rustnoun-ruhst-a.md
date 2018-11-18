@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-11 10:47:14 -0400
+date: 2018-08-11 09:47:14 -0500
 guid: http://ericalba.micro.blog/2018/08/11/rustnoun-ruhst-a.html
 ---
 rust
