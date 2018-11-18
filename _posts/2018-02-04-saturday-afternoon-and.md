@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-04 04:43:49 -0400
+date: 2018-02-04 03:43:49 -0500
 guid: http://ericalba.micro.blog/2018/02/04/saturday-afternoon-and.html
 ---
 Saturday afternoon and this kid’s walking heads down in a book instead of a phone. There is hope for humanity. 🤙📖❤️📚
