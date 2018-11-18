@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-19 09:31:04 -0400
+date: 2018-09-19 08:31:04 -0500
 guid: http://ericalba.micro.blog/2018/09/19/from-archives-walt.html
 ---
 from archives (2004), Walt Disney Concert Hall #Moody . swipe to end to see a bad mirror/selfie.
