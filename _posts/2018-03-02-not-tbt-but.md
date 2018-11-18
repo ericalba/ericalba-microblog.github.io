@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-01 22:18:28 -0400
+date: 2018-03-01 21:18:28 -0500
 guid: http://ericalba.micro.blog/2018/03/02/not-tbt-but.html
 ---
 Not #TBT but feels like so many days from the past. 
