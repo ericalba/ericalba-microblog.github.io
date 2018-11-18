@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-17 09:04:00 -0400
+date: 2018-06-17 08:04:00 -0500
 guid: http://ericalba.micro.blog/2018/06/17/then-now-happy.html
 ---
 Then & Now. Happy Father’s Day and Happy Birthday Dad! I love you.
