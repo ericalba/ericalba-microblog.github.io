@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-01 05:10:59 -0400
+date: 2018-01-01 04:10:59 -0500
 guid: http://ericalba.micro.blog/2018/01/01/seeing-through-sweaty.html
 ---
 Seeing ❤️ through sweaty windows.
