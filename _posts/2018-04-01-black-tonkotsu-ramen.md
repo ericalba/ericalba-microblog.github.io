@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-01 11:53:54 -0400
+date: 2018-04-01 10:53:54 -0500
 guid: http://ericalba.micro.blog/2018/04/01/black-tonkotsu-ramen.html
 ---
 Black Tonkotsu Ramen:  Served w/ Chashu (Roasted Park), Moyashi (Bean Sprouts), Tomorokoshi (Corn), Negi (Scallions), Tamago (Boiled Egg). Great, solid ramen. Bonus, the Pan-Fried Shrimp & Ground Pork Gyoza Served w/ Spicy Mustard was perfect and also a big reason to come back. 
