@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-27 21:12:18 -0400
+date: 2018-01-27 20:12:18 -0500
 guid: http://ericalba.micro.blog/2018/01/28/jeff-koons-bluebird.html
 ---
 Jeff Koons: Bluebird Planter, 2010-2016
