@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-15 08:54:44 -0400
+date: 2018-07-15 07:54:44 -0500
 guid: http://ericalba.micro.blog/2018/07/15/quiet-breakfast-thankfully.html
 ---
 quiet breakfast, thankfully. 
