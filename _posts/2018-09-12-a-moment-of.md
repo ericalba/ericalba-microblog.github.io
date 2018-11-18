@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-11 20:15:10 -0400
+date: 2018-09-11 19:15:10 -0500
 guid: http://ericalba.micro.blog/2018/09/12/a-moment-of.html
 ---
 a moment of silence please.
