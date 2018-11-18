@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-27 21:07:54 -0400
+date: 2018-01-27 20:07:54 -0500
 guid: http://ericalba.micro.blog/2018/01/28/judd-serra-flavindonald.html
 ---
 Judd, Serra, Flavin.
