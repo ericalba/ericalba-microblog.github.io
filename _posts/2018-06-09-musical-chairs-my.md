@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-09 17:04:11 -0400
+date: 2018-06-09 16:04:11 -0500
 guid: http://ericalba.micro.blog/2018/06/09/musical-chairs-my.html
 ---
 “Musical Chairs 3.0”
