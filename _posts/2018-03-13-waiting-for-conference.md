@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-13 18:49:35 -0400
+date: 2018-03-13 17:49:35 -0500
 guid: http://ericalba.micro.blog/2018/03/13/waiting-for-conference.html
 ---
 Waiting for conference rooms.
