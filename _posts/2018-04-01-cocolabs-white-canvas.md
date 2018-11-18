@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-31 23:16:40 -0400
+date: 2018-03-31 22:16:40 -0500
 guid: http://ericalba.micro.blog/2018/04/01/cocolabs-white-canvas.html
 ---
 Cocolab’s “White Canvas” at @blackbymatte 💥 meanwhile @josue_ibanez is making sure I don’t spill drinks all over the computers driving this thing. 😕
