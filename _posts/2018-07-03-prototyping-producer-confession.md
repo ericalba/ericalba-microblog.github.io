@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-03 16:39:02 -0400
+date: 2018-07-03 15:39:02 -0500
 guid: http://ericalba.micro.blog/2018/07/03/prototyping-producer-confession.html
 ---
 #Prototyping
