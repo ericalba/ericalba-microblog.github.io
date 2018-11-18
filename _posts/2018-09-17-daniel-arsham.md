@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-17 07:07:30 -0400
+date: 2018-09-17 06:07:30 -0500
 guid: http://ericalba.micro.blog/2018/09/17/daniel-arsham.html
 ---
 Daniel Arsham - 3018
