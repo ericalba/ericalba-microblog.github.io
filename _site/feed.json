@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://ericalba.micro.blog/2018/11/06/vote-today-if.html",
+	      	
+			"content_html": "<p>✅ Vote today</p>\n\n<p>If you can vote, then do it.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/9a2222bf0f.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/64590867d5.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/aa88694bcc.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.ericalba.com/uploads/2018/45a0426508.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-06T07:12:19-05:00",
+			"url": "http://micro.ericalba.com/2018/11/06/vote-today-if.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/10/31/sardis-this-is.html",
+	      	
+			"content_html": "<p><a href=\"http://micro.ericalba.com/uploads/2018/2425663bfa.jpg\"><img src=\"http://micro.ericalba.com/uploads/2018/2425663bfa.jpg\" width=\"0\" height=\"0\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Sardi’s.<br /><br />this is a swarm test from Sunlit. <br />NO TITLE</p>\n\n",
+			"date_published": "2018-10-31T18:49:15-04:00",
+			"url": "http://micro.ericalba.com/2018/10/31/sardis-this-is.html"
+		},
+		
+		{
+			"id": "http://ericalba.micro.blog/2018/10/31/test-outbound-link.html",
+	      	
+			"content_html": "<p><a href=\"https://duckduckgo.com\">test outbound link</a> :</p>\n\n<blockquote>\n  <p>Irony freegan next level banjo Austin. Yr authentic fashion axe shabby chic typewriter, mlkshk chillwave cred mumblecore Intelligentsia literally 3 wolf moon single-origin coffee forage selvage. Hashtag craft beer small batch.</p>\n</blockquote>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n",
+			"date_published": "2018-10-31T16:40:49-04:00",
+			"url": "http://micro.ericalba.com/2018/10/31/test-outbound-link.html"
+		},
+		
+		{
 			"id": "http://ericalba.micro.blog/2018/10/31/203628.html",
 	      	
 			"title": "this is a test title",
@@ -182,30 +206,6 @@
 			"content_html": "<p><img src=\"http://micro.ericalba.com/uploads/2018/8e9bc7c3b3.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-31T09:44:42-04:00",
 			"url": "http://micro.ericalba.com/2018/08/31/134442.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/08/24/oh-hey-magicleap.html",
-	      	
-			"content_html": "<p>Oh hey, @magicleap tip: use @lego as a cradle. 🤓 #OldSchool #magicleap #organization #mixedreality #NoSelfie</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/9a907576d0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-24T15:36:22-04:00",
-			"url": "http://micro.ericalba.com/2018/08/24/oh-hey-magicleap.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/08/11/rustnoun-ruhst-a.html",
-	      	
-			"content_html": "<p>rust\nnoun | [ruhst]\n1 a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture. * a state of deterioration or disrepair resulting from neglect or lack of use.</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/c252549125.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-11T10:47:14-04:00",
-			"url": "http://micro.ericalba.com/2018/08/11/rustnoun-ruhst-a.html"
-		},
-		
-		{
-			"id": "http://ericalba.micro.blog/2018/07/15/spirit-of-the.html",
-	      	
-			"content_html": "<p>“SPIRIT OF THE CITY” Installation of 16x revolving columns by @unitedvisualartists at @ado courtyard for @mini</p>\n\n<p><img src=\"http://micro.ericalba.com/uploads/2018/1590897cb7.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-15T11:40:36-04:00",
-			"url": "http://micro.ericalba.com/2018/07/15/spirit-of-the.html"
 		}
 		
 	]
