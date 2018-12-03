@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/285f255cc5.jpg
 date: 2018-01-27 20:12:18 -0500
 guid: http://ericalba.micro.blog/2018/01/28/jeff-koons-bluebird.html
 ---
