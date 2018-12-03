@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/7440de84a9.jpg
 date: 2018-04-02 19:27:00 -0500
 guid: http://ericalba.micro.blog/2018/04/03/kumamoto-spicy-sio.html
 ---
