@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/f731456ad4.jpg
 date: 2017-12-18 21:13:59 -0500
 guid: http://ericalba.micro.blog/2017/12/19/light-leaks-by.html
 ---
