@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/0e929e509b.jpg
 date: 2018-10-04 10:00:03 -0500
 guid: http://ericalba.micro.blog/2018/10/04/tbt-vancouver-granville.html
 ---
