@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/baf1c7b722.jpg
 date: 2018-02-16 21:11:39 -0500
 guid: http://ericalba.micro.blog/2018/02/17/karakacchan-ramen-hakata.html
 ---
