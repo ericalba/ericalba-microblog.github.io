@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-27 18:44:41 -0500
 guid: http://ericalba.micro.blog/2018/01/27/seths-blog-working.html
 ---
