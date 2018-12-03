@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/c252549125.jpg
 date: 2018-08-11 09:47:14 -0500
 guid: http://ericalba.micro.blog/2018/08/11/rustnoun-ruhst-a.html
 ---
