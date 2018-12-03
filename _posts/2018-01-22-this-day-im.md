@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-21 19:31:23 -0500
 guid: http://ericalba.micro.blog/2018/01/22/this-day-im.html
 ---
