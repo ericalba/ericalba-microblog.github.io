@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/521205055f.jpg
 date: 2018-02-11 15:09:17 -0500
 guid: http://ericalba.micro.blog/2018/02/11/jigoku-ramen-homemade.html
 ---
