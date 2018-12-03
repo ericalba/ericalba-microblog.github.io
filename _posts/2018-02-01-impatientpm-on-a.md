@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/aa876f420a.jpg
 date: 2018-01-31 21:20:13 -0500
 guid: http://ericalba.micro.blog/2018/02/01/impatientpm-on-a.html
 ---
