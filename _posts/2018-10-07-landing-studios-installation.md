@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/050f9e47fb.jpg
 date: 2018-10-07 00:51:13 -0500
 guid: http://ericalba.micro.blog/2018/10/07/landing-studios-installation.html
 ---
