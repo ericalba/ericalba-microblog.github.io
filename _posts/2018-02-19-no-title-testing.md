@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/cf687f0909.jpg
 date: 2018-02-18 19:27:47 -0500
 guid: http://ericalba.micro.blog/2018/02/19/no-title-testing.html
 ---
