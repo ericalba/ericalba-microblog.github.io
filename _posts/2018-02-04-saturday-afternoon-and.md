@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/cb13a93b23.jpg
 date: 2018-02-04 03:43:49 -0500
 guid: http://ericalba.micro.blog/2018/02/04/saturday-afternoon-and.html
 ---
