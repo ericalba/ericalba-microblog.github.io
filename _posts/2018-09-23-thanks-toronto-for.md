@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/3b8b0338aa.jpg
 date: 2018-09-23 11:30:34 -0500
 guid: http://ericalba.micro.blog/2018/09/23/thanks-toronto-for.html
 ---
