@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/45a0426508.jpg
 date: 2018-11-06 07:12:19 -0500
 guid: http://ericalba.micro.blog/2018/11/06/vote-today-if.html
 ---
