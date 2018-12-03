@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/b3a212d3cc.jpg
 date: 2018-01-22 14:34:47 -0500
 guid: http://ericalba.micro.blog/2018/01/22/touba-alipouramerica-closed.html
 ---
