@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/26b4acdf11.jpg
 date: 2018-01-27 19:49:53 -0500
 guid: http://ericalba.micro.blog/2018/01/28/sherrie-levinenickel-plated.html
 ---
