@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/6f58edfd93.jpg
 date: 2018-10-21 19:13:33 -0500
 guid: http://ericalba.micro.blog/2018/10/22/jenny-holzer-red.html
 ---
