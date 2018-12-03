@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/c87fc4417b.jpg
 date: 2018-03-31 22:14:30 -0500
 guid: http://ericalba.micro.blog/2018/04/01/my-friends-at.html
 ---
