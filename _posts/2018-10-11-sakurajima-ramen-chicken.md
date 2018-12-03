@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/ba4bffa7b9.jpg
 date: 2018-10-10 19:12:49 -0500
 guid: http://ericalba.micro.blog/2018/10/11/sakurajima-ramen-chicken.html
 ---
