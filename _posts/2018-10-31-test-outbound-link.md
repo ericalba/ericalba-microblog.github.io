@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-31 15:40:49 -0500
 guid: http://ericalba.micro.blog/2018/10/31/test-outbound-link.html
 ---
