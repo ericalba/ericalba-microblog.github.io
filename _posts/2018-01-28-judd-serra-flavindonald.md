@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/e200b9b545.jpg
 date: 2018-01-27 20:07:54 -0500
 guid: http://ericalba.micro.blog/2018/01/28/judd-serra-flavindonald.html
 ---
