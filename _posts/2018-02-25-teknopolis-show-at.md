@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/e251243ed9.jpg
 date: 2018-02-24 23:08:43 -0500
 guid: http://ericalba.micro.blog/2018/02/25/teknopolis-show-at.html
 ---
