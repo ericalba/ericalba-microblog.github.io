@@ -3,6 +3,7 @@ layout: post
 title: "another test."
 microblog: false
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/e5b7fe9f9c.jpg
 date: 2018-02-12 20:33:42 -0500
 guid: http://ericalba.micro.blog/2018/02/13/another-testjust-deleted.html
 ---
