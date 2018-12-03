@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/dd294c0054.jpg
 date: 2018-09-19 08:31:04 -0500
 guid: http://ericalba.micro.blog/2018/09/19/from-archives-walt.html
 ---
