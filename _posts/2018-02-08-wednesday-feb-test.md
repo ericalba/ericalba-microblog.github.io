@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/cf687f0909.jpg
 date: 2018-02-07 20:01:23 -0500
 guid: http://ericalba.micro.blog/2018/02/08/wednesday-feb-test.html
 ---
