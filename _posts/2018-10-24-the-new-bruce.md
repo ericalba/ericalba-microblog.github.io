@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/85d0ee8059.jpg
 date: 2018-10-24 18:36:55 -0500
 guid: http://ericalba.micro.blog/2018/10/24/the-new-bruce.html
 ---
