@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/b1fbfa4559.jpg
 date: 2018-01-12 21:38:56 -0500
 guid: http://ericalba.micro.blog/2018/01/13/hey-why-dont.html
 ---
