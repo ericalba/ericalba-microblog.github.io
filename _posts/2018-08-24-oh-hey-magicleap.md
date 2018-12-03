@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/9a907576d0.jpg
 date: 2018-08-24 14:36:22 -0500
 guid: http://ericalba.micro.blog/2018/08/24/oh-hey-magicleap.html
 ---
