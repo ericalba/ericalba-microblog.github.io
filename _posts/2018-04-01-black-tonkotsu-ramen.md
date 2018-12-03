@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/4b989be615.jpg
 date: 2018-04-01 10:53:54 -0500
 guid: http://ericalba.micro.blog/2018/04/01/black-tonkotsu-ramen.html
 ---
