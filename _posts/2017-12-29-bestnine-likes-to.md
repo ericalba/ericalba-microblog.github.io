@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/63fce0461a.jpg
 date: 2017-12-29 18:08:49 -0500
 guid: http://ericalba.micro.blog/2017/12/29/bestnine-likes-to.html
 ---
