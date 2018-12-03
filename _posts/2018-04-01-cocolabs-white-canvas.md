@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/82136c61b8.jpg
 date: 2018-03-31 22:16:40 -0500
 guid: http://ericalba.micro.blog/2018/04/01/cocolabs-white-canvas.html
 ---
