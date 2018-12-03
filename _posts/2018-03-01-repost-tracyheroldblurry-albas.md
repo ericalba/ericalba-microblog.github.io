@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/0cd4645cf8.jpg
 date: 2018-02-28 22:12:36 -0500
 guid: http://ericalba.micro.blog/2018/03/01/repost-tracyheroldblurry-albas.html
 ---
