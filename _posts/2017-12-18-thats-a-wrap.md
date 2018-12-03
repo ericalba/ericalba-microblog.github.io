@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/36e2c4c250.jpg
 date: 2017-12-18 11:20:48 -0500
 guid: http://ericalba.micro.blog/2017/12/18/thats-a-wrap.html
 ---
