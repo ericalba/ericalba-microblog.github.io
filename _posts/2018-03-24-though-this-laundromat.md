@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/d500ac71a2.jpg
 date: 2018-03-24 00:33:30 -0500
 guid: http://ericalba.micro.blog/2018/03/24/though-this-laundromat.html
 ---
