@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/c252b15b7c.jpg
 date: 2017-12-20 02:45:32 -0500
 guid: http://ericalba.micro.blog/2017/12/20/day-before-dayfornightfest.html
 ---
