@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/3fd8582119.jpg
 date: 2018-07-03 15:39:02 -0500
 guid: http://ericalba.micro.blog/2018/07/03/prototyping-producer-confession.html
 ---
