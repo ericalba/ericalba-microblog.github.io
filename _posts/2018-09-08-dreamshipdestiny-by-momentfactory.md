@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/c5b1ce8b1c.jpg
 date: 2018-09-07 22:39:35 -0500
 guid: http://ericalba.micro.blog/2018/09/08/dreamshipdestiny-by-momentfactory.html
 ---
