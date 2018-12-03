@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.ericalba.com/uploads/2018/96c3354a3e.jpg
 date: 2018-03-01 21:18:28 -0500
 guid: http://ericalba.micro.blog/2018/03/02/not-tbt-but.html
 ---
